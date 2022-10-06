@@ -5,15 +5,15 @@
     "emotes" : [
         {
             "name": "dingus",
-            "type": "png"
+            "type": "jpeg"
         },
         {
             "name": "egg",
-            "type": "png"
+            "type": "jpeg"
         },
         {
             "name": "nut",
-            "type": "png"
+            "type": "jpeg"
         }
     ]
 }
