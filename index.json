@@ -1,19 +1,19 @@
 {
-    "name": "Example Repo",
+    "name": "112c's Repo!",
     "icon": "icon.jpg",
     "path": "emotes",
     "emotes" : [
         {
-            "name": "imageone",
+            "name": "dingus",
             "type": "png"
         },
         {
-            "name": "imagetwo",
-            "type": "gif"
+            "name": "egg",
+            "type": "png"
         },
         {
-            "name": "imagethree",
-            "type": "jpg"
+            "name": "nut",
+            "type": "png"
         }
     ]
 }
